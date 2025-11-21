@@ -57,7 +57,7 @@ export default function Footer() {
               📍 <span className="ml-1 text-gray-500">Patil Sarees, Satana, Maharashtra</span>
             </li>
             <li>
-              📞 <a href="tel:9876543210" className="text-gray-500 hover:text-black ml-1 ">+91 98765 43210</a>
+              📞 <a href="tel:9876543210" className="text-gray-500 hover:text-black ml-1 ">+91 9860599907</a>
             </li>
             <li>
               ✉️ <a href="mailto:info@patilsarees.com" className="text-gray-500 hover:text-black ml-1">
@@ -75,3 +75,4 @@ export default function Footer() {
     </footer>
   );
 }
+
