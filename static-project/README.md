@@ -1,16 +1,22 @@
-# React + Vite
+✨ Patil Sarees – Static & Responsive Website
+I developed a modern and visually appealing static website for Patil Sarees using React and Tailwind CSS. The website is fully responsive, ensuring a smooth user experience across all devices, from mobile screens to large desktops.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The design highlights the elegance of traditional sarees with a clean layout, fast load time, and well-structured components. Using Tailwind CSS made the styling more efficient and consistent, while React helped manage components seamlessly to create a smooth, interactive UI.
 
-Currently, two official plugins are available:
+This project showcases my ability to build pixel-perfect, mobile-friendly, and performance-optimized web pages with a focus on simplicity and modern design.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🌟 Key Highlights:
 
-## React Compiler
+Built with React ⚛️
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Styled using Tailwind CSS 🎨
 
-## Expanding the ESLint configuration
+Fast, static, and optimized website ⚡
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Fully responsive for all devices 📱💻
+
+Clean UI and reusable components ✨
+
+#️⃣ Hashtags:
+#PatilSarees #FrontendDeveloper #ReactJS #TailwindCSS #StaticWebsite #ResponsiveDesign #WebDevelopment #UIUX #ModernWebDesign #CleanUI #SareeStore #FashionWebsite 🎀
+Demo link-->https://drive.google.com/file/d/1BHWptPqSW09oP8GpzOFJHnz8F1RDFol1/view?usp=sharing
